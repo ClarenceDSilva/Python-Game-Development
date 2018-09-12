@@ -1,0 +1,13 @@
+URL: http://www.codeskulptor.org/#user38_KgX7zgYHqzdrA3k.py (Final Draft)
+
+Draft:
+http://www.codeskulptor.org/#user38_niGbuVE0YT_0.py
+
+TESTING TEMPLATES:
+http://www.codeskulptor.org/#user38_I1jbvAJRZe_1.py // for hand class
+
+http://www.codeskulptor.org/#user38_45RLG6lweY_9.py // for deck class
+
+
+Other students implentation:
+http://www.codeskulptor.org/#user38_9YocaRCUTi_4.py
