@@ -1,3 +1,0 @@
-Asteriod animation example URL: http://www.codeskulptor.org/#examples-asteroid_animation.py
-
-Explosion animation URL: http://www.codeskulptor.org/#examples-explosion_animation.py
