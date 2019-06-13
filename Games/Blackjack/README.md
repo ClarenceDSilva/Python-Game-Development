@@ -2,10 +2,11 @@
 
 Implementation of a famous card game know as  Blackjack
 
-#[Play it on CodeSkulptor](http://www.codeskulptor.org/#user38_KgX7zgYHqzdrA3k.py)
+[Play it on CodeSkulptor](http://www.codeskulptor.org/#user38_KgX7zgYHqzdrA3k.py)
+
+##Screenshot
+![alt text](https://github.com/ClarenceDSilva/Python-Game-Development/blob/master/readme_images/
+BlackjackSS.PNG)
 
 Other implementation:
 http://www.codeskulptor.org/#user38_9YocaRCUTi_4.py
-
-##Screenshot
-![alt text](https://github.com/ClarenceDSilva/Big-Data-Indexing/blob/master/readme_images/architecture.PNG)
