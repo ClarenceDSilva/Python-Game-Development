@@ -6,3 +6,6 @@ Implementation of a famous card game know as  Blackjack
 
 Other implementation:
 http://www.codeskulptor.org/#user38_9YocaRCUTi_4.py
+
+##Screenshot
+![alt text](https://github.com/ClarenceDSilva/Big-Data-Indexing/blob/master/readme_images/architecture.PNG)
