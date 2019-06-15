@@ -4,6 +4,3 @@ My first basic interactive game developed, is the famous "Rock-Paper-Scissor-Liz
 The user interactively plays with the computer through the program console<br/>
 
 [Play it on CodeSkulptor](http://www.codeskulptor.org/#user38_z5NXm7pp57ot5RB.py)
-
-Other implementation:
-http://www.codeskulptor.org/#user38_9YocaRCUTi_4.pyt
