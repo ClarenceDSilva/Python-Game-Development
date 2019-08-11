@@ -96,7 +96,7 @@ def input_guess(guess):
         new_game()
     
     else:
-        print "Game Over!!"
+        print "Game Over!! The Computer guessed ->", secret_number
         print "Sorry, you have no Guesses remaining "
         new_game()
    
